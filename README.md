@@ -170,6 +170,7 @@ GET /admin/reports/sales – Generate sales reports
 GET /admin/reports/analytics – View analytics
 Project Structure
 Backend
+
 backend/                      # Spring Boot backend
 ├── src/
 │   ├── main/
